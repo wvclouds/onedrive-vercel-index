@@ -45,7 +45,7 @@ module.exports = {
   "protectedRoutes": [
   "/Media/Movie",
   "/Media/Series",
-  "/Media/Movie"],
+  "/Media/Movie",
   "/Media/Series"],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
